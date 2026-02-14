@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Аня",
+    valentineName: "ANYA",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Ты меня любишь? 💗",
+    pageTitle: "TbI MenYa LOVE???????💗",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,35 +22,35 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Любишь ли ты меня?",                                    // First interaction
-            yesBtn: "Да",                                             // Text for "Yes" button
-            noBtn: "Нет",                                               // Text for "No" button
-            secretAnswer: "Конечно я тебя люблю! ❤️"           // Secret hover message
+            text: "DO YOU LOVE ME??",                                    // First interaction
+            yesBtn: "YEAH!!!",                                             // Text for "Yes" button
+            noBtn: "NET.",                                               // Text for "No" button
+            secretAnswer: "DAAAAAAAAAAAAAAAAAAAAAA!! ❤️"           // Secret hover message
         },
         second: {
-            text: "Насколько сильно ты меня любишь?",                          // For the love meter
-            startText: "Настолько!",                                   // Text before the percentage
-            nextBtn: "Дальше ❤️"                                         // Text for the next button
+            text: "SILNO??",                          // For the love meter
+            startText: "PIZDEC KAK SILNO!!",                                   // Text before the percentage
+            nextBtn: "NEXT ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Будешь ли ты моей валентинкой? 🌹", // The big question!
-            yesBtn: "Да!!",                                             // Text for "Yes" button
-            noBtn: "Нет."                                                 // Text for "No" button
+            text: "BUDESH LI TI SO SMOY?? 🌹", // The big question!
+            yesBtn: "DA",                                             // Text for "Yes" button
+            noBtn: "NET, NAHUY NADA."                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "РЕАЛЬНО?? Настолько?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Капец. 🚀💝",              // Shows when they go past 1000%
-            normal: "И больше! 🥰"                           // Shows when they go past 100%
+        extreme: "REALNO????????? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "KAPEC. 🚀💝",              // Shows when they go past 1000%
+            normal: "MILOTA 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "УРААА!! Я тебя люблю!! 🎉💝💖💝💓",
-        message: "Надеюсь ты уже получила от меня подарок, а если нет, то жди!!🎁💖🤗",
+        title: "URAAA :) 🎉💝💖💝💓",
+        message: "ESLI NE POLICHILA PODAROK TO JDI!!🎁💖🤗",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
